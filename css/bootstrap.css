@@ -2072,6 +2072,9 @@ pre code {
 .col-sm-4{
     color: #424242;
 }
+.col-sm-4 a:hover{
+    text-decoration: underline;
+}
 
 .col-xs-1,
 .col-xs-10,
