@@ -710,6 +710,13 @@ p {
     justify-content: space-around;
     margin: 5px;
 }
+.partn img{
+    margin: auto;
+    padding-right: 30px;
+    padding-left: 30px;
+    
+}
+
 
 h2 {
     font-size: 22px;
@@ -790,9 +797,12 @@ h4 {
     color: #F3976C!important;
    
 }
+.tc-white{
+    color: #FFF;
+}
 .row>h2{
      background-color: #424242;
-    opacity: 0.5;
+    opacity: 0.8;
     width: 75%;
     margin: auto;
     padding: 10px;
